@@ -4,6 +4,6 @@
 ~ Women
 ~ Kid's
 
-Language :- html
+Language :- HTML, CSS, JS
 framework :- Bootsrap v4.3
 IDE :- visual studio code
